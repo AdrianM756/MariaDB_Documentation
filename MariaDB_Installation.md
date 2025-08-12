@@ -34,6 +34,6 @@ mariadb -u root -p
 ```
 <br>
 
-Enter the root password you set during the secure installation step. This should log you into the MariaDB client.
+Enter the ```root``` password you set during the secure installation step. This should log you into the MariaDB client.
 
 
